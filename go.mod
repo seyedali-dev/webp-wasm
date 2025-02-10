@@ -1,4 +1,4 @@
-module github.com/gen2brain/webp
+module github.com/seyedali-dev/webp-wasm
 
 go 1.22
 
